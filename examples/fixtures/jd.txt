@@ -1,0 +1,11 @@
+Junior Automation Analyst — Northstar Labs
+
+RESPONSIBILITIES
+- Build and maintain Python scripts that improve internal support workflows.
+- Analyze support trends with SQL and explain findings to stakeholders.
+- Test automated workflows and document expected behavior.
+
+QUALIFICATIONS
+- Working knowledge of Python, SQL, and Git.
+- Experience testing automated workflows.
+- Clear written and verbal communication.

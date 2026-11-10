@@ -1,0 +1,13 @@
+Jordan Lee
+
+SUMMARY
+Software support specialist transitioning into automation analysis.
+
+EXPERIENCE
+Northwind Services — Support Specialist
+- Automated weekly ticket categorization with Python, reducing manual review by 4 hours per week.
+- Created SQL reports that summarized recurring customer issues for the support manager.
+- Documented troubleshooting playbooks and trained three new team members.
+
+SKILLS
+Python, SQL, Git, customer support, technical documentation
